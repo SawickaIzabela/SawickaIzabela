@@ -4,6 +4,7 @@ I'm Izabela Sawicka, a seasoned technical writer with a strong focus on deliveri
 * Telecommunication
 * Graph analysis and data
 * Manufacturing and automation
+  
 Throughout my career, I have demonstrated a knack for collaborating with cross-functional teams, extracting information from subject matter experts, and translating technical jargon into easily understandable content.
 
 ## Table of Contents
@@ -21,7 +22,7 @@ Results-oriented and committed to excellence, I excel in developing and executin
 
 ### Skills:
 
-**Documentation Tools:** Proficient in MadCap Flare, Oxygen, Author-it.
+**Documentation Tools:** Proficient in MadCap Flare, Oxygen, Author-it, DokuWiki.
 
 **Project Management:** Experienced in Jira, Git, Jenkins.
 
@@ -51,6 +52,7 @@ I'm eager to contribute my expertise to innovative projects.
 
 ## Project Status:
 I'm currently in the process of developing and enhancing this project, so stay tuned! You will find here documents that I wrote in purpose of this portfolio. 
+
 Project is: _In progress_ 
 
 ## Confidentiality Note:
@@ -60,8 +62,8 @@ Project is: _In progress_
 ## Contact information:
 Email: izabela.sawicka91@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/nowakowskaizabela/
+[My LinkedIn profile](https://www.linkedin.com/in/nowakowskaizabela/)
 
-GitHub: https://github.com/SawickaIzabela/ 
+[My GitHub profile](https://github.com/SawickaIzabela/)
 
 Feel free to connect with me for collaboration, inquiries, or any discussions related to technical writing or documentation. I look forward to connecting with you!
