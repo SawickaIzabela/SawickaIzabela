@@ -22,7 +22,7 @@ Results-oriented and committed to excellence, I excel in developing and executin
 
 ### Skills:
 
-**Documentation Tools:** Proficient in MadCap Flare, Oxygen, Author-it, DokuWiki.
+**Documentation Tools:** Proficient in MadCap Flare, Oxygen, Author-it, DokuWiki, Visual Studio Code.
 
 **Project Management:** Experienced in Jira, Git, Jenkins.
 
